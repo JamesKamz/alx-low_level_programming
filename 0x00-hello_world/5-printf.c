@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- *main -function
- *return: 0
- */
+ *main -main block
+ *prinf
+ *Return: 0x
+*/
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");

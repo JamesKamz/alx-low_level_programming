@@ -2,10 +2,9 @@
 #include <stdio.h>
 #include <time.h>
 /* more header goes here. */
-
 /**
  * main - Entry point
- * Description: if-else program.
+ * Description: if-else progiram.
  * Return: Always 0 (success)
  */
 int main(void)

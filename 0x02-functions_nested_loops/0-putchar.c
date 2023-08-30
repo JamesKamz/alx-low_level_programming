@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <main.h>
+#include "main.h"
 /**
  *main - start point
  *code: content of code

@@ -3,7 +3,7 @@
 /**
  * _abs - Entry point
  * @i: parameter
- * Return; 0
+ * Return: absolute value
  */
 int _abs(int i)
 {

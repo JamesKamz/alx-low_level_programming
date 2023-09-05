@@ -1,7 +1,7 @@
 #include "main.h"
 #include <ctype.h>
 /**
- * _isalha - Entry point
+ * _isalpha - Entry point
  * @c: parameter
  * Return: 1 if is letter, lowwercase or uppercase
  */

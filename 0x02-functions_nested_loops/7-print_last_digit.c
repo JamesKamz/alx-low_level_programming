@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _print_last_digit - Entry point
+ * print_last_digit - Entry point
  * @n: prameter
  * Return : last digit
  */

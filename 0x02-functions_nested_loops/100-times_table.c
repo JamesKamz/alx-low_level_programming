@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_times_table - functions that print the times table 
-*
+ * print_times_table - functions that print the times table
+ *
  *@n: parameter
  *
 */

@@ -3,6 +3,8 @@
 /**
  * main - check the code
  *
+ *@n: parameter
+ *
  *Return: Always 0.
  */
 

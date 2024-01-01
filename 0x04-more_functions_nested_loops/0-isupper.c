@@ -1,5 +1,7 @@
 #include "main.h"
 #include <ctype.h>
+#include <stdio.h>
+
 /**
  * _isupper - Entry main
  *@c: parameter
